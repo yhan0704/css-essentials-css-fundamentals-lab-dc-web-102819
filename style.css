@@ -27,7 +27,7 @@ a{
   margin-left: auto;
 }
 
-#detail{
+#detail > div{
   display:block;
   float: left;
 }
