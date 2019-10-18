@@ -29,5 +29,8 @@ a{
 
 #detail{
   display:block;
-  float: left;
+}
+
+#detail div{
+  float:left;
 }
