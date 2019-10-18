@@ -15,3 +15,7 @@ img{
 figcaption{
   text-align: center;
 }
+
+a{
+  padding:0 10px;
+}
