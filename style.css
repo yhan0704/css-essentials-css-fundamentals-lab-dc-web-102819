@@ -30,6 +30,7 @@ a{
 #details div{
   display:block;
   float:left;
-  
+  background-color: blue;
+  text-align: center;
 }
 
