@@ -21,6 +21,7 @@ a{
   padding:0 10px;
 }
 
-#featured-property > p{
+#featured-property p{
   width:800px;
+  text-align: center;
 }
