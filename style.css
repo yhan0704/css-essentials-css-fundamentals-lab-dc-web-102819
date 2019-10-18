@@ -29,6 +29,7 @@ a{
 
 #details div{
   display:block;
+  width:100%;
   float:left;
   background-color: yellow;
   text-align: center;
