@@ -29,5 +29,5 @@ a{
 
 #detail{
   display:block;
-  
+  float: left;
 }
