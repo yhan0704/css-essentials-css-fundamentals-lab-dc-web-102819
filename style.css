@@ -27,10 +27,8 @@ a{
   margin-left: auto;
 }
 
-#detail{
-  display:block;
-}
-
 #detail div{
+  display:block;
   float:left;
 }
+
